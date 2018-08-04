@@ -7,3 +7,7 @@
 >2.《不止代码》  --阿里首部技术经验精选集
 
 链接:https://pan.baidu.com/s/1vZV4sasz5xVgogy-U_HBgA  密码:lrsn
+
+>3.《你不知道的javascript》 
+
+链接:https://pan.baidu.com/s/1vWp_WdRSVdZkTrjEcPdPAA  密码:63g2
